@@ -10,10 +10,17 @@
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "@zeit/next-sass": "^1.0.1",
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
+    "fibers": "^5.0.3",
+    "isomorphic-unfetch": "^4.0.2",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.58.0",
+    "typeface-lora": "^1.1.13",
+    "typeface-roboto": "^1.1.13",
+    "uuid": "^9.0.0"
   }
 }
